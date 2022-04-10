@@ -1,0 +1,1 @@
+«Вы понравились {{sender_2.first_name}}! Почта участника:  {{sender_2.email}}.
